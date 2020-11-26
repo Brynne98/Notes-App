@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0f218b4-4440-4e0a-be2d-3388da057122" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="javascript.nodejs.core.library.configured.version" value="12.7.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.7.0" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
